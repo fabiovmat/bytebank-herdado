@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb8c1068-9044-4188-bac1-83847bbcd592" name="Changes" comment="EStudo Heranca" />
+    <list default="true" id="cb8c1068-9044-4188-bac1-83847bbcd592" name="Changes" comment="EStudo Heranca">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ControleBonificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EditorVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TesteReferencias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestaGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestaGerente.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +44,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "F:/Projetos/bytebank-herdado"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -43,7 +53,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaGerente">
+  <component name="RunManager" selected="Application.TesteReferencias">
     <configuration name="TestaGerente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.TestaGerente" />
       <module name="bytebank-herdado" />
@@ -83,8 +93,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TesteReferencias" />
+      <module name="bytebank-herdado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TesteReferencias" />
+      <module name="bytebank-herdado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteReferencias" />
+        <item itemvalue="Application.TesteReferencias" />
         <item itemvalue="Application.TestaGerente" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.TesteFuncionario" />
